@@ -19,5 +19,3 @@ tell application "System Events"
 		activate
 	end tell
 end tell
-
-set selected_text to "HOG E" as text
