@@ -14,6 +14,9 @@ Copy current selected text and the url of active tab in Chrome.
 - google_trans.scpt  
 Open Google Translation page with selected text in Chrome. This button is useful if you want to translate specific text into another language. If you want to translate Japanese to English, the URL should be "https://translate.google.com/#ja/en/おはよう"
 
+- google_trans_auto.scpt   
+Automatically check the language of selected text by considering the unicode.
+
 - insert_today_str.scpt  
 Just insert a string of today's date. You can customize date format by modifying `customDate` variable in the script.
 
