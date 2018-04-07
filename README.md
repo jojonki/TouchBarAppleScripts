@@ -29,5 +29,5 @@ Touch Bar Widgets run automatically in background. To create a widget, you need 
 - show_msg_in_specific_url.scpt  
 During the specific URL is active in Chrome, the set message appears in your Touch Bar. The message is only visible when the specified URL is active, and Chrome is foreground.
 
-- google_play_music_show_current_track.scpt
-Current playing title in Google Play Music appears in your Touch Bar.
+- google_play_music_show_current_track.scpt  
+Show current playing track of Google Play Music in Chrome.
