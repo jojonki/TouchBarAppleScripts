@@ -2,7 +2,7 @@
 
 You can customize your boring Touch Bar with [BetterTouchTool](https://www.boastr.net/) and AppleScript.
 
-<img src="https://pbs.twimg.com/media/DaI8HbLWkAARpWK.jpg:large">
+<img src="https://pbs.twimg.com/media/DaJDnyoX4AAhmnN.jpg:large">
 
 ## Applications
 ### Touch Bar Buttons
