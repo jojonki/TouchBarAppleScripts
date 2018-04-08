@@ -31,3 +31,6 @@ During the specific URL is active in Chrome, the set message appears in your Tou
 
 - google_play_music_show_current_track.scpt  
 Show current playing track of Google Play Music in Chrome.
+
+- show_cpu_temp.scpt
+Show CPU temperature and the related icon and background color. BTT version must be higher thant 2.426 ALPHA. And you also need to install [istats](https://github.com/Chris911/iStats). `sudo gem install istats`
